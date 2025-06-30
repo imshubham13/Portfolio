@@ -25,7 +25,7 @@ export default function Experience() {
                   <div className="flex items-center gap-2">
                     <p className="text-zinc-50 font-semibold">{experience.role}</p>
                     <p className="text-sm text-zinc-500">
-                      {dayjs(experience.from).format('MMM YYYY')} ~ {experience.to === 'present' ? 'Present' : dayjs(experience.to).format('MMM YYYY')}
+                      {typeof experience.to === 'string' && experience.to === 'present' ? 'Present' : dayjs(experience.to).format('MMM YYYY')}
                     </p>
                   </div>
                   <ul className="text-sm text-zinc-300 mt-3 pl-4">
