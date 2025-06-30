@@ -1,0 +1,158 @@
+{
+  "name": "Shubham Savaliya",
+  "bio": "I am a passionate full stack developer building dynamic, user-focused web applications. I’m proficient in both front-end and back-end technologies, excelling at crafting seamless experiences using tools like React, Node.js,Flutter, Firebase and PostgreSQL. With a keen eye for design and a knack for solving complex problems, I’ve contributed to projects ranging from sleek e-commerce platforms to robust enterprise solutions. When I’m not coding, I exploring the latest tech trends, and sipping coffee while debugging late into the night.",
+  "contacts": {
+    "phone": "+1 2222 333 4444",
+    "email": "shubhamsavaliya13@gmail.com",
+    "github": "https://github.com/imshubham13",
+    "twitter": "https://x.com/your-username",
+    "telegram": "https://t.me/your-username",
+    "discord": "your-username",
+    "linkedin": "https://linkedin.com/in/your-username"
+  },
+  "education": {
+    "logo": "https://imgs.search.brave.com/DQmqfxNpmIMf4hAn6jVzudE2eh1inYePc3PWG145vPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/MS8xMS9WTlNHVV9s/b2dvLnBuZy8yNTBw/eC1WTlNHVV9sb2dv/LnBuZw",
+    "degree": "MCA",
+    "university": "VNSGU",
+    "location": "Surat",
+    "cgpa":"--",
+    "graduation": "2023/06/01 00:00:00",
+    "courseWork": [
+      "Algorithms"
+    ],
+    "project": "CI-CD Pipeline using Jenkins"
+  },
+  "education_bca": {
+    "logo": "https://www.sdjic.org/assets/front/images/logo.png",
+    "degree": "BCA",
+    "university": "SDJ International Collage,VNSGU",
+    "location": "Surat",
+    "graduation": "2020/09/01 00:00:00",
+    "cgpa":"8.81",
+    "courseWork": [
+      "Office Automation"
+    ],
+    "project": "iEducation"
+  },
+  "meetingLink": "https://meet.google.com",
+  "skills": {
+    "languages": [
+      "C",
+      "C++",
+      "Java",
+      "JavaScript",
+      "Dart"
+    ],
+    "frameworks": [
+      "React",
+      "Node.js",
+      "Flutter"
+    ]
+  },
+  "projects": [
+    {
+      "name": "iEducation",
+      "link": "https://github.com/imshubham13/iEducation",
+      "logo": "https://cdn-icons-png.flaticon.com/128/14274/14274245.png",
+      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "skills": [
+        "Dart",
+        "Flutter",
+        "Firebase"
+      ]
+    },
+    {
+      "name": "Intalk-Blog",
+      "link": "https://github.com/imshubham13/INTALK-BLOG",
+      "logo": "https://cdn-icons-png.flaticon.com/128/5692/5692184.png",
+      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "skills": [
+        "React",
+        "Node.js",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "News App",
+      "link": "https://github.com/imshubham13/NewsApp-REACT",
+      "logo": "https://cdn-icons-png.flaticon.com/128/4336/4336339.png",
+      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "skills": [
+        "React",
+        "Tailwind CSS"
+      ]
+    },
+    {
+      "name": "Weather App",
+      "link": "https://github.com/imshubham13/Weather-app-react",
+      "logo": "https://cdn-icons-png.flaticon.com/128/6451/6451205.png",
+      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "skills": [
+        "React",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "from": 1735689600000,
+      "to": 1751328000000,
+      "company": "Agami Tech Pvt. Ltd.",
+      "role": "Intern Software Engineer",
+      "logo": "https://www.agami-tech.com/wp-content/uploads/Agami-Tech-light.svg",
+      "descriptions": [
+        "Work on New UI of Intalk.",
+        "Build API in PHP and Laravel.",
+        "Also work on Node, build live socket connection and store data on Redis."
+      ]
+    },
+    {
+      "from": 1730347070000,
+      "to": 1740347070445,
+      "company": "Microsft",
+      "role": "Senior Software Engineer",
+      "logo": "https://companiesmarketcap.com/img/company-logos/64/MSFT.webp",
+      "descriptions": [
+        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ]
+    },
+    {
+      "from": 1730347070000,
+      "to": 1740347070445,
+      "company": "Microsft",
+      "role": "Senior Software Engineer",
+      "logo": "https://companiesmarketcap.com/img/company-logos/64/GOOG.webp",
+      "descriptions": [
+        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ]
+    },
+    {
+      "from": 1730347070000,
+      "to": 1740347070445,
+      "company": "Nvidia",
+      "role": "Senior Software Engineer",
+      "logo": "https://companiesmarketcap.com/img/company-logos/64/NVDA.webp",
+      "descriptions": [
+        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ]
+    },
+    {
+      "from": 1730347070000,
+      "to": 1740347070445,
+      "company": "Tesla",
+      "role": "Senior Software Engineer",
+      "logo": "https://companiesmarketcap.com/img/company-logos/64/TSLA.webp",
+      "descriptions": [
+        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
+        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      ]
+    }
+  ]
+}
