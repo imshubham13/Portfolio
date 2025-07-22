@@ -2,13 +2,13 @@
   "name": "Shubham Savaliya",
   "bio": "I am a passionate full stack developer building dynamic, user-focused web applications. I’m proficient in both front-end and back-end technologies, excelling at crafting seamless experiences using tools like React, Node.js,Flutter, Firebase and PostgreSQL. With a keen eye for design and a knack for solving complex problems, I’ve contributed to projects ranging from sleek e-commerce platforms to robust enterprise solutions. When I’m not coding, I exploring the latest tech trends, and sipping coffee while debugging late into the night.",
   "contacts": {
-    "phone": "+1 2222 333 4444",
+    "phone": "+91 91*** ***98",
     "email": "shubhamsavaliya13@gmail.com",
     "github": "https://github.com/imshubham13",
     "twitter": "https://x.com/your-username",
     "telegram": "https://t.me/your-username",
-    "discord": "your-username",
-    "linkedin": "https://linkedin.com/in/your-username"
+    "discord": "",
+    "linkedin": "https://www.linkedin.com/in/shubham-savaliya-015a12253"
   },
   "education": {
     "logo": "https://imgs.search.brave.com/DQmqfxNpmIMf4hAn6jVzudE2eh1inYePc3PWG145vPU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvZW4vdGh1bWIv/MS8xMS9WTlNHVV9s/b2dvLnBuZy8yNTBw/eC1WTlNHVV9sb2dv/LnBuZw",
@@ -41,12 +41,19 @@
       "C++",
       "Java",
       "JavaScript",
-      "Dart"
+      "Dart",
+      "PHP"
     ],
     "frameworks": [
       "React",
       "Node.js",
-      "Flutter"
+      "Flutter",
+      "Laravel"
+    ],
+    "database":[
+      "MongoDB",
+      "MySQL",
+      "Firebase"
     ]
   },
   "projects": [
@@ -54,7 +61,7 @@
       "name": "iEducation",
       "link": "https://github.com/imshubham13/iEducation",
       "logo": "https://cdn-icons-png.flaticon.com/128/14274/14274245.png",
-      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "iEducation is a student management system developed using Flutter for the frontend and Firebase for backend and database services. The application consists of two main panels: Admin and Student. The Admin Panel allows administrators to add and manage student profiles, assign homework, track attendance, publish holiday notices, upload course-related PDF materials, and manage student fee information. On the other hand, the Student Panel provides students with access to their course details, assigned homework, downloadable study materials (PDFs), holiday notices, and fee-related information. The system ensures seamless communication between students and administrators, enabling efficient management of academic activities through a clean and user-friendly mobile interface.",
       "skills": [
         "Dart",
         "Flutter",
@@ -65,7 +72,7 @@
       "name": "Intalk-Blog",
       "link": "https://github.com/imshubham13/INTALK-BLOG",
       "logo": "https://cdn-icons-png.flaticon.com/128/5692/5692184.png",
-      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "This project is a full-stack social media application that offers a seamless and interactive user experience, featuring real-time functionality and secure authentication. The backend is built using Node.js and Express.js, with MySQL as the relational database and Sequelize ORM for structured and efficient database interaction. The frontend is developed using React with Tailwind CSS for a modern, responsive, and visually appealing user interface. Real-time features such as likes and comments are implemented using Socket.io, allowing users to interact with posts instantly without page refreshes. The application includes essential features like user authentication, profile management, post creation, live engagement (likes/comments), and smooth UI transitions for an intuitive experience. This project demonstrates strong integration between front-end and back-end technologies while maintaining scalability, security, and real-time interactivity.",
       "skills": [
         "React",
         "Node.js",
@@ -76,7 +83,7 @@
       "name": "News App",
       "link": "https://github.com/imshubham13/NewsApp-REACT",
       "logo": "https://cdn-icons-png.flaticon.com/128/4336/4336339.png",
-      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description": "I developed a News Application using React that displays real-time news articles categorized into Technology, Sports, Business, Health, and Entertainment. The app fetches news data from a public News API and dynamically renders articles based on the selected category. Each news item showcases a featured image, headline, short description, and a clickable URL that redirects users to the full article. The interface is built with responsive design to ensure usability across all devices. The project includes features like category-based filtering, API integration, and conditional rendering to provide a smooth and informative user experience. This project highlights my skills in React component structuring, state and props management, and handling real-time external data efficiently.",
       "skills": [
         "React",
         "Tailwind CSS"
@@ -86,7 +93,7 @@
       "name": "Weather App",
       "link": "https://github.com/imshubham13/Weather-app-react",
       "logo": "https://cdn-icons-png.flaticon.com/128/6451/6451205.png",
-      "description": "Lorem Ipsum dolor sit amet, consectetur adipiscing elit. Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem Ipsum duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem Ipsum excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "description":"I developed a Weather Application using React and Redux Toolkit that fetches and displays real-time weather data for any searched location. The app shows key weather details such as the temperature in Celsius, location name, region, and country. It integrates with a public weather API to retrieve accurate and up-to-date weather information. Redux Toolkit is used for efficient global state management, allowing seamless data flow across components and improving app performance. The application features a clean and responsive user interface, with input-based search functionality and conditional rendering for weather data. This project demonstrates proficiency in React, Redux Toolkit, and API integration, along with the ability to manage application state in a scalable and maintainable way.",
       "skills": [
         "React",
         "Tailwind CSS"
@@ -94,9 +101,27 @@
     }
   ],
   "experience": [
+     {
+      "from": 1735689600000,
+      "start":"1 July, 2025",
+      "end":"Present",
+      "to": 1751328000000,
+      "company": "Agami Tech Pvt. Ltd.",
+      "role": "SDE-1",
+      "logo": "https://www.agami-tech.com/wp-content/uploads/Agami-Tech-light.svg",
+      "descriptions": [
+        "Work on New UI of Intalk.",
+        "Developed dynamic reports to track supervisor and agent activities.",
+        "Solve security related issues",
+        "Build API in PHP and Laravel.",
+        "Contributed to backend logic and logging flow enhancements using Node.js."
+      ]
+    },
     {
       "from": 1735689600000,
       "to": 1751328000000,
+      "start":"1 January, 2025",
+      "end":"30 June, 2025",
       "company": "Agami Tech Pvt. Ltd.",
       "role": "Intern Software Engineer",
       "logo": "https://www.agami-tech.com/wp-content/uploads/Agami-Tech-light.svg",
@@ -104,54 +129,6 @@
         "Work on New UI of Intalk.",
         "Build API in PHP and Laravel.",
         "Also work on Node, build live socket connection and store data on Redis."
-      ]
-    },
-    {
-      "from": 1730347070000,
-      "to": 1740347070445,
-      "company": "Microsft",
-      "role": "Senior Software Engineer",
-      "logo": "https://companiesmarketcap.com/img/company-logos/64/MSFT.webp",
-      "descriptions": [
-        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-      ]
-    },
-    {
-      "from": 1730347070000,
-      "to": 1740347070445,
-      "company": "Microsft",
-      "role": "Senior Software Engineer",
-      "logo": "https://companiesmarketcap.com/img/company-logos/64/GOOG.webp",
-      "descriptions": [
-        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-      ]
-    },
-    {
-      "from": 1730347070000,
-      "to": 1740347070445,
-      "company": "Nvidia",
-      "role": "Senior Software Engineer",
-      "logo": "https://companiesmarketcap.com/img/company-logos/64/NVDA.webp",
-      "descriptions": [
-        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
-      ]
-    },
-    {
-      "from": 1730347070000,
-      "to": 1740347070445,
-      "company": "Tesla",
-      "role": "Senior Software Engineer",
-      "logo": "https://companiesmarketcap.com/img/company-logos/64/TSLA.webp",
-      "descriptions": [
-        "Lorem Ipsum dolor sit amet, consectetur adipiscing elit.",
-        "Lorem Ipsum sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-        "Lorem Ipsum ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
       ]
     }
   ]

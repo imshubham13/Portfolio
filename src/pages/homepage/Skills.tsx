@@ -20,6 +20,7 @@ export default function Skills() {
           <p className="flex gap-2 items-center font-['Geist'] font-bold text-2xl"><FaBrain />Skills</p>
           {skillSection("Language", profile.skills.languages)}
           {skillSection("Frameworks", profile.skills.frameworks)}
+          {skillSection("Database", profile.skills.database)}
         </div>
       </WrapperBody>
     </div>

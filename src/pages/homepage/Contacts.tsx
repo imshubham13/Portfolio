@@ -17,10 +17,10 @@ export default function Contacts() {
               <FaPhone size={20} />
               {profile.contacts.phone}
             </div>
-            <div className="flex items-center gap-4">
+            {/* <div className="flex items-center gap-4">
               <FaTwitter size={20} />
               {profile.contacts.twitter}
-            </div>
+            </div> */}
             <div className="flex items-center gap-4">
               <FaLinkedin size={20} />
               {profile.contacts.linkedin}
@@ -29,14 +29,14 @@ export default function Contacts() {
               <FaGithub size={20} />
               {profile.contacts.github}
             </div>
-            <div className="flex items-center gap-4">
+            {/* <div className="flex items-center gap-4">
               <FaTelegram size={20} />
               {profile.contacts.telegram}
             </div>
             <div className="flex items-center gap-4">
               <FaDiscord size={20} />
               {profile.contacts.discord}
-            </div>
+            </div> */}
           </div>
         </div>
       </WrapperBody>
