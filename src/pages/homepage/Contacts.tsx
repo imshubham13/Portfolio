@@ -1,6 +1,6 @@
 import WrapperBody from "../../layouts/wrapper";
 import profile from "../../configs/portfolio.json";
-import { FaDiscord, FaEnvelope, FaGithub, FaLinkedin, FaPaperPlane, FaPhone, FaTelegram, FaTwitter } from "react-icons/fa";
+import {  FaEnvelope, FaGithub, FaLinkedin, FaPaperPlane, FaPhone } from "react-icons/fa";
 
 export default function Contacts() {
   return (

@@ -1,7 +1,6 @@
 import WrapperBody from "../../layouts/wrapper";
 import profile from "../../configs/portfolio.json";
 import { FaAward } from "react-icons/fa";
-import dayjs from "dayjs";
 
 export default function Experience() {
   return (
